@@ -23,15 +23,15 @@ if response.status_code == 200:
     movies = []
     for item in lista.find_all('li'):  # Ignorando o cabeçalho
         title_container = item.find('div', class_='ipc-title')
-        metadata_container = item.find('div', class_='cli-title-metadata').find_all('span')
-        rating_container = item.find('div', class_='cli-ratings-container')
+        metadata_container = item.find('div', class_='ipc-metadata-list-summary-item__tc').find_all('span')
+        rating_container = item.find('div', class_='ipc-rating-star--rating')
 
         movie_path = title_container.a['href']
         title = title_container.a.h3.get_text()
         year = metadata_container[0].get_text()
         duration = metadata_container[1].get_text()
         age_rating = metadata_container[2].get_text()
-        rating = rating_container.span.span.get_text()
+        rating = rating_container.span.get_text()
 
         # Requisição para a página do filme para obter mais detalhes
         movie_link = "https://www.imdb.com" + movie_path
