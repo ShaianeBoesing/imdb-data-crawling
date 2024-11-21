@@ -1,5 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
+import json
+import os
 
 # URL do IMDb que você deseja fazer o scraping
 url = 'https://www.rottentomatoes.com/browse/movies_at_home/sort:popular?page=5'
@@ -8,6 +10,20 @@ url = 'https://www.rottentomatoes.com/browse/movies_at_home/sort:popular?page=5'
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/58.0.3029.110 Safari/537.3'
 }
+
+movie_data = {
+                "Title": "movie_title",
+                "Genres": "genre_list",
+                "Release Dates": "release_dates",
+                "Runtime": "runtime",
+                "Rating": "rating",
+                "Actors": "actor_list",
+                "Tomatometer": "tomatometer",
+                "Popcornmeter": "popcornmeter"
+            }
+
+with open("./teste.json", 'w') as file:
+    json.dump(movie_data, file, indent=4)
 
 # Fazendo uma requisição GET para a página com o cabeçalho
 response = requests.get(url, headers=headers, timeout=10)
@@ -93,13 +109,32 @@ if response.status_code == 200:
             tomatometer = tomato_movie_soup.find('rt-text', {"slot": "criticsScore"}).get_text()
             popcornmeter = tomato_movie_soup.find('rt-text', {"slot": "audienceScore"}).get_text()
 
-            print(f"Title: {movie_title}")
-            print(f"Genres: {genre_list}")
-            print(f"Release Dates: {release_dates}")
-            print(f"Runtime: {runtime}")
-            print(f"Rating: {rating}")
-            print(f"Actors: {actor_list}")
-            print(f"Tomatometer: {tomatometer}")
-            print(f"Popcornmeter: {popcornmeter}")
-            print("\n"*5)
+            # Define the path to the JSON file
+            json_file_path = '/Users/mathmac/local tests/ufsc/webscrapping/imdb-data-crawling/movies_data.json'
+
+            # Load existing data from the JSON file if it exists
+            if os.path.exists(json_file_path):
+                with open(json_file_path, 'r') as file:
+                    movies_data = json.load(file)
+            else:
+                movies_data = []
+
+            # Create a dictionary with the movie data
+            movie_data = {
+                "Title": movie_title,
+                "Genres": genre_list,
+                "Release Dates": release_dates,
+                "Runtime": runtime,
+                "Rating": rating,
+                "Actors": actor_list,
+                "Tomatometer": tomatometer,
+                "Popcornmeter": popcornmeter
+            }
+            print(movie_data)
+            # Append the new movie data to the list
+            movies_data.append(movie_data)
+
+            # Save the updated data back to the JSON file
+            with open(json_file_path, 'w') as file:
+                json.dump(movies_data, file, indent=4)
             

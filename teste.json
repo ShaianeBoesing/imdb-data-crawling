@@ -1,0 +1,10 @@
+{
+    "Title": "movie_title",
+    "Genres": "genre_list",
+    "Release Dates": "release_dates",
+    "Runtime": "runtime",
+    "Rating": "rating",
+    "Actors": "actor_list",
+    "Tomatometer": "tomatometer",
+    "Popcornmeter": "popcornmeter"
+}
