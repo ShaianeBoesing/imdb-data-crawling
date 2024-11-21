@@ -1066,5 +1066,2212 @@
         ],
         "Tomatometer": "100%",
         "Popcornmeter": "99%"
+    },
+    {
+        "Title": "365 Days",
+        "Genres": [
+            "Drama",
+            "Romance"
+        ],
+        "Release Dates": [
+            "Streaming: Jun 7, 2020"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "",
+        "Actors": [
+            "Barbara Bia\u0142ow\u0105s (Director)",
+            "Michele Morrone (Massimo Torricelli)",
+            "Bronis\u0142aw Wroc\u0142awski (Mario)",
+            "Otar Saralidze (Domenico)",
+            "Magdalena Lamparska (Olga)",
+            "Natasza Urbanska (Anna)"
+        ],
+        "Tomatometer": "0%",
+        "Popcornmeter": "30%"
+    },
+    {
+        "Title": "Predestination",
+        "Genres": [
+            "Sci-Fi",
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Jan 9, 2015, Limited",
+            "Streaming: Jan 2, 2016"
+        ],
+        "Runtime": "1h 37m",
+        "Rating": "R (Nudity|Language|Some Sexuality|Violence)",
+        "Actors": [
+            "Michael Spierig (Director)",
+            "Peter Spierig (Director)",
+            "Ethan Hawke (Actor)",
+            "Sarah Snook (Actor)",
+            "Noah Taylor (Actor)",
+            "Christopher Kirby (Mr. Miles)"
+        ],
+        "Tomatometer": "84%",
+        "Popcornmeter": "75%"
+    },
+    {
+        "Title": "Time Cut",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller",
+            "Sci-Fi"
+        ],
+        "Release Dates": [
+            "Streaming: Oct 30, 2024"
+        ],
+        "Runtime": "1h 31m",
+        "Rating": "",
+        "Actors": [
+            "Hannah Macpherson (Director)",
+            "Madison Bailey (Lucy Field)",
+            "Michael Shanks (Gil)",
+            "Antonia Gentry (Summer Field)",
+            "Summer H. Howell (Jessica)",
+            "Megan Best (Emmy Golden)"
+        ],
+        "Tomatometer": "27%",
+        "Popcornmeter": "33%"
+    },
+    {
+        "Title": "The Piano Lesson",
+        "Genres": [
+            "Drama",
+            "Music"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 8, 2024, Limited",
+            "Streaming: Nov 22, 2024"
+        ],
+        "Runtime": "2h 5m",
+        "Rating": "PG-13",
+        "Actors": [
+            "Malcolm Washington (Director)",
+            "Samuel L. Jackson (Doaker)",
+            "John David Washington (Boy Willie)",
+            "Danielle Deadwyler (Berniece)",
+            "Ray Fisher (Lymon)",
+            "Corey Hawkins (Avery)"
+        ],
+        "Tomatometer": "90%",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "Oddity",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 19, 2024, Wide",
+            "Streaming: Aug 20, 2024"
+        ],
+        "Runtime": "1h 38m",
+        "Rating": "R (Language|Some Bloody Images/Gore)",
+        "Actors": [
+            "Damian McCarthy (Director)",
+            "Gwilym Lee (Ted Timmis)",
+            "Carolyn Bracken (Dani Timmins)",
+            "Tadhg Murphy (Olin Boole)",
+            "Caroline Menton (Yana)",
+            "Steve Wall (Ivan)"
+        ],
+        "Tomatometer": "96%",
+        "Popcornmeter": "77%"
+    },
+    {
+        "Title": "Caddo Lake",
+        "Genres": [
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Streaming: Oct 10, 2024"
+        ],
+        "Runtime": "1h 45m",
+        "Rating": "PG-13 (Thematic Elements|Some Disturbing/Bloody Images|Brief Strong Language)",
+        "Actors": [
+            "Celine Held (Director)",
+            "Logan George (Director)",
+            "Dylan O'Brien (Paris)",
+            "Eliza Scanlen (Ellie)",
+            "Lauren Ambrose (Celeste)",
+            "Eric Lange (Daniel)"
+        ],
+        "Tomatometer": "76%",
+        "Popcornmeter": "80%"
+    },
+    {
+        "Title": "Interstellar",
+        "Genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 7, 2014, Wide",
+            "Streaming: May 24, 2016"
+        ],
+        "Runtime": "2h 45m",
+        "Rating": "PG-13 (Some Intense Perilous Action|Brief Strong Language)",
+        "Actors": [
+            "Christopher Nolan (Director)",
+            "Matthew McConaughey (Cooper)",
+            "Anne Hathaway (Amelia Brand)",
+            "Jessica Chastain (Murph)",
+            "Michael Caine (Professor Brand)",
+            "Bill Irwin (TARS)"
+        ],
+        "Tomatometer": "73%",
+        "Popcornmeter": "86%"
+    },
+    {
+        "Title": "The Batman",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 4, 2022, Wide",
+            "Streaming: Apr 19, 2022"
+        ],
+        "Runtime": "2h 56m",
+        "Rating": "PG-13 (Some Suggestive Material|Drug Content|Strong Disturbing Content|Strong Language|Strong Violent Content)",
+        "Actors": [
+            "Matt Reeves (Director)",
+            "Robert Pattinson (Bruce Wayne)",
+            "Zo\u00eb Kravitz (Selina Kyle)",
+            "Jeffrey Wright (Lt. James Gordon)",
+            "Colin Farrell (Oz)",
+            "Paul Dano (The Riddler)"
+        ],
+        "Tomatometer": "85%",
+        "Popcornmeter": "87%"
+    },
+    {
+        "Title": "Civil War",
+        "Genres": [
+            "Action",
+            "War",
+            "Mystery & Thriller",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 12, 2024, Wide",
+            "Streaming: May 24, 2024"
+        ],
+        "Runtime": "1h 49m",
+        "Rating": "R (Language Throughout|Bloody/Disturbing Images|Strong Violent Content)",
+        "Actors": [
+            "Alex Garland (Director)",
+            "Kirsten Dunst (Lee)",
+            "Wagner Moura (Joel)",
+            "Cailee Spaeny (Jessie)",
+            "Stephen Henderson (Sammy)",
+            "Sonoya Mizuno (Anya)"
+        ],
+        "Tomatometer": "81%",
+        "Popcornmeter": "70%"
+    },
+    {
+        "Title": "Bread & Roses",
+        "Genres": [
+            "Documentary"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 22, 2024, Limited",
+            "Streaming: Nov 22, 2024"
+        ],
+        "Runtime": "1h 30m",
+        "Rating": "",
+        "Actors": [
+            "Sahra Mani (Director)",
+            "Jennifer Lawrence (Producer)",
+            "Justine Ciarrocchi (Producer)",
+            "Sahra Mani (Producer)",
+            "Malala Yousafzai (Executive Producer)",
+            "Farhad Khosravi (Executive Producer)"
+        ],
+        "Tomatometer": "100%",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "Late Night with the Devil",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 22, 2024, Wide",
+            "Streaming: Apr 19, 2024"
+        ],
+        "Runtime": "1h 33m",
+        "Rating": "R (Language|A Sexual Reference|Some Gore|Violent Content)",
+        "Actors": [
+            "Colin Cairnes (Director)",
+            "Cameron Cairnes (Director)",
+            "David Dastmalchian (Jack Delroy)",
+            "Laura Gordon (June Ross-Mitchell)",
+            "Fayssal Bazzi (Christou)",
+            "Ian Bliss (Carmichael Hunt)"
+        ],
+        "Tomatometer": "97%",
+        "Popcornmeter": "81%"
+    },
+    {
+        "Title": "Absolution",
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 1, 2024, Wide",
+            "Streaming: Nov 19, 2024"
+        ],
+        "Runtime": "1h 52m",
+        "Rating": "R (Some Sexual Content/Nudity|Language Throughout|Drug Use|Violence)",
+        "Actors": [
+            "Hans Petter Moland (Director)",
+            "Liam Neeson (Actor)",
+            "Ron Perlman (Actor)",
+            "Yolonda Ross (Actor)",
+            "Frankie Shaw (Actor)",
+            "Daniel Diemer (Actor)"
+        ],
+        "Tomatometer": "52%",
+        "Popcornmeter": "32%"
+    },
+    {
+        "Title": "Smile",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 30, 2022, Wide",
+            "Streaming: Nov 15, 2022"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "R",
+        "Actors": [
+            "Parker Finn (Director)",
+            "Sosie Bacon (Dr. Rose Cotter)",
+            "Jessie T. Usher (Actor)",
+            "Kyle Gallner (Actor)",
+            "Robin Weigert (Actor)",
+            "Caitlin Stasey (Actor)"
+        ],
+        "Tomatometer": "79%",
+        "Popcornmeter": "77%"
+    },
+    {
+        "Title": "I Saw the TV Glow",
+        "Genres": [
+            "Sci-Fi",
+            "Horror",
+            "Drama",
+            "LGBTQ+",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: May 17, 2024, Wide",
+            "Streaming: Jun 14, 2024"
+        ],
+        "Runtime": "1h 40m",
+        "Rating": "PG-13 (Thematic Elements|Teen Smoking|Some Sexual Material|Violent Content)",
+        "Actors": [
+            "Jane Schoenbrun (Director)",
+            "Justice Smith (Owen)",
+            "Brigette Lundy-Paine (Maddy)",
+            "Ian Foreman (Young Owen)",
+            "Lindsey Jordan (Tara)",
+            "Helena Howard (Isabel)"
+        ],
+        "Tomatometer": "84%",
+        "Popcornmeter": "72%"
+    },
+    {
+        "Title": "Abigail",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 19, 2024, Wide",
+            "Streaming: May 7, 2024"
+        ],
+        "Runtime": "1h 49m",
+        "Rating": "R (Gore|Brief Drug Use|Pervasive Language|Strong Bloody Violence)",
+        "Actors": [
+            "Matt Bettinelli-Olpin (Director)",
+            "Tyler Gillett (Director)",
+            "Melissa Barrera (Joey)",
+            "Dan Stevens (Frank)",
+            "Kathryn Newton (Sammy)",
+            "William Catlett (Rickles)"
+        ],
+        "Tomatometer": "83%",
+        "Popcornmeter": "84%"
+    },
+    {
+        "Title": "Dune: Part Two",
+        "Genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action",
+            "Fantasy",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 1, 2024, Wide",
+            "Streaming: Apr 16, 2024"
+        ],
+        "Runtime": "2h 46m",
+        "Rating": "PG-13 (Sequences of Strong Violence|Brief Strong Language|Some Suggestive Material)",
+        "Actors": [
+            "Denis Villeneuve (Director)",
+            "Timoth\u00e9e Chalamet (Paul Atreides)",
+            "Zendaya (Chani)",
+            "Rebecca Ferguson (Jessica)",
+            "Javier Bardem (Stilgar)",
+            "Josh Brolin (Gurney Halleck)"
+        ],
+        "Tomatometer": "92%",
+        "Popcornmeter": "95%"
+    },
+    {
+        "Title": "The Fall Guy",
+        "Genres": [
+            "Action",
+            "Romance",
+            "Comedy",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: May 3, 2024, Wide",
+            "Streaming: May 21, 2024"
+        ],
+        "Runtime": "2h 6m",
+        "Rating": "PG-13 (Drug Content|Action and Violence|Some Strong Language)",
+        "Actors": [
+            "David Leitch (Director)",
+            "Ryan Gosling (Colt Seavers)",
+            "Emily Blunt (Jody)",
+            "Aaron Taylor-Johnson (Actor)",
+            "Stephanie Hsu (Actor)",
+            "Winston Duke (Actor)"
+        ],
+        "Tomatometer": "81%",
+        "Popcornmeter": "85%"
+    },
+    {
+        "Title": "Tangerine",
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 10, 2015, Limited",
+            "Streaming: Nov 10, 2016"
+        ],
+        "Runtime": "1h 27m",
+        "Rating": "R (Drug Use|Disturbing Sexual Content|Graphic Nudity|Language Throughout|Strong Sexual Content)",
+        "Actors": [
+            "Sean Baker (Director)",
+            "Kitana Kiki Rodriguez (Sin-Dee)",
+            "Mya Taylor (Alexandra)",
+            "Karren Karagulian (Razmik)",
+            "Mickey O'Hagan (Dinah)",
+            "James Ransone (Chester)"
+        ],
+        "Tomatometer": "96%",
+        "Popcornmeter": "75%"
+    },
+    {
+        "Title": "The Remarkable Life of Ibelin",
+        "Genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 18, 2024, Limited",
+            "Streaming: Oct 25, 2024"
+        ],
+        "Runtime": "1h 44m",
+        "Rating": "PG-13 (Brief Strong Language)",
+        "Actors": [
+            "Benjamin Ree (Director)",
+            "Robert Steen (Self)",
+            "Trude Steen (Self)",
+            "Mia Steen (Self)",
+            "Lisette Roovers (Self)",
+            "Kai Simon Fredriksen (Self)"
+        ],
+        "Tomatometer": "98%",
+        "Popcornmeter": "97%"
+    },
+    {
+        "Title": "Oppenheimer",
+        "Genres": [
+            "Biography",
+            "History",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 21, 2023, Wide",
+            "Streaming: Nov 21, 2023"
+        ],
+        "Runtime": "3h 0m",
+        "Rating": "R (Nudity|Language|Some Sexuality)",
+        "Actors": [
+            "Christopher Nolan (Director)",
+            "Cillian Murphy (J. Robert Oppenheimer)",
+            "Emily Blunt (Kitty Oppenheimer)",
+            "Robert Downey Jr. (Lewis Strauss)",
+            "Matt Damon (Leslie Groves Jr.)",
+            "Rami Malek (David Hill)"
+        ],
+        "Tomatometer": "93%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "The Lost City",
+        "Genres": [
+            "Romance",
+            "Comedy",
+            "Adventure",
+            "Action"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 25, 2022, Wide",
+            "Streaming: May 10, 2022"
+        ],
+        "Runtime": "1h 52m",
+        "Rating": "PG-13 (Partial Nudity|Language|Some Bloody Images|Suggestive Material|Violence)",
+        "Actors": [
+            "Adam Nee (Director)",
+            "Aaron Nee (Director)",
+            "Sandra Bullock (Loretta)",
+            "Channing Tatum (Alan)",
+            "Daniel Radcliffe (Abigail Fairfax)",
+            "Da'Vine Joy Randolph (Beth Hatten)"
+        ],
+        "Tomatometer": "79%",
+        "Popcornmeter": "83%"
+    },
+    {
+        "Title": "Meet Me Next Christmas",
+        "Genres": [
+            "Romance",
+            "Holiday"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 6, 2024, Limited",
+            "Streaming: Nov 6, 2024"
+        ],
+        "Runtime": "1h 45m",
+        "Rating": "",
+        "Actors": [
+            "Rusty Cundieff (Director)",
+            "Christina Milian (Layla)",
+            "Devale Ellis (Teddy)",
+            "Mitch Grassi (Mitch)",
+            "Scott Hoying (Scott)",
+            "Kirstin Maldonado (Kirstin)"
+        ],
+        "Tomatometer": "69%",
+        "Popcornmeter": "53%"
+    },
+    {
+        "Title": "An Almost Christmas Story",
+        "Genres": [
+            "Holiday",
+            "Adventure",
+            "Animation",
+            "Kids & Family",
+            "Short"
+        ],
+        "Release Dates": [
+            "Streaming: Nov 15, 2024"
+        ],
+        "Runtime": "21m",
+        "Rating": "G",
+        "Actors": [
+            "David Lowery (Director)",
+            "Cary Christopher (Moon)",
+            "Estella Madrigal (Luna)",
+            "Jim Gaffigan (Papa Owl)",
+            "Natasha Lyonne (Pat)",
+            "John C. Reilly (The Folk Singer)"
+        ],
+        "Tomatometer": "100%",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "The Whale",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Dec 21, 2022, Wide",
+            "Streaming: Feb 21, 2023"
+        ],
+        "Runtime": "1h 57m",
+        "Rating": "R (Sexual Content|Language|Some Drug Use)",
+        "Actors": [
+            "Darren Aronofsky (Director)",
+            "Brendan Fraser (Actor)",
+            "Sadie Sink (Actor)",
+            "Hong Chau (Actor)",
+            "Ty Simpkins (Actor)",
+            "Samantha Morton (Actor)"
+        ],
+        "Tomatometer": "64%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "Pedro P\u00e1ramo",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 6, 2024, Limited",
+            "Streaming: Nov 6, 2024"
+        ],
+        "Runtime": "2h 10m",
+        "Rating": "",
+        "Actors": [
+            "Rodrigo Prieto (Director)",
+            "Manuel Garc\u00eda-Rulfo (Pedro P\u00e1ramo)",
+            "Tenoch Huerta (Juan Preciado)",
+            "Dolores Heredia (Actor)",
+            "Ilse Salas (Actor)",
+            "H\u00e9ctor Kotsifakis (Actor)"
+        ],
+        "Tomatometer": "76%",
+        "Popcornmeter": "79%"
+    },
+    {
+        "Title": "Take Shelter",
+        "Genres": [
+            "Drama",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 30, 2011, Limited",
+            "Streaming: Feb 25, 2014"
+        ],
+        "Runtime": "2h 4m",
+        "Rating": "R (Some Language)",
+        "Actors": [
+            "Jeff Nichols (Director)",
+            "Michael Shannon (Curtis LaForche)",
+            "Jessica Chastain (Samantha LaForche)",
+            "Shea Whigham (Dewart)",
+            "Katy Mixon (Nat)",
+            "Ray McKinnon (Kyle)"
+        ],
+        "Tomatometer": "92%",
+        "Popcornmeter": "81%"
+    },
+    {
+        "Title": "Borderlands",
+        "Genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure",
+            "Comedy"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 9, 2024, Wide",
+            "Streaming: Aug 30, 2024"
+        ],
+        "Runtime": "1h 42m",
+        "Rating": "PG-13 (Intense Sequences of Violence|Action|Language|Some Suggestive Material)",
+        "Actors": [
+            "Eli Roth (Director)",
+            "Cate Blanchett (Lilith)",
+            "Kevin Hart (Roland)",
+            "Jack Black (Claptrap)",
+            "Jamie Lee Curtis (Tannis)",
+            "Ariana Greenblatt (Tiny Tina)"
+        ],
+        "Tomatometer": "10%",
+        "Popcornmeter": "51%"
+    },
+    {
+        "Title": "His House",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Streaming: Oct 30, 2020"
+        ],
+        "Runtime": "1h 33m",
+        "Rating": "",
+        "Actors": [
+            "Remi Weekes (Director)",
+            "Wunmi Mosaku (Rial)",
+            "Sope Dirisu (Bol)",
+            "Matt Smith (Mark)",
+            "Cornell John (The Witch)",
+            "Emily Taaffe (Dr. Hayes)"
+        ],
+        "Tomatometer": "100%",
+        "Popcornmeter": "73%"
+    },
+    {
+        "Title": "Infinite",
+        "Genres": [
+            "Sci-Fi",
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Streaming: Jun 10, 2021"
+        ],
+        "Runtime": "1h 46m",
+        "Rating": "PG-13 (Sequences of Strong Violence|Brief Drug Use|Some Bloody Images|Strong Language)",
+        "Actors": [
+            "Antoine Fuqua (Director)",
+            "Mark Wahlberg (Evan McCauley)",
+            "Chiwetel Ejiofor (Bathurst 2020)",
+            "Sophie Cookson (Nora Brightman)",
+            "Jason Mantzoukas (Artisan)",
+            "Rupert Friend (Bathurst 1985)"
+        ],
+        "Tomatometer": "17%",
+        "Popcornmeter": "34%"
+    },
+    {
+        "Title": "The Infiltrator",
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery & Thriller",
+            "Biography"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 13, 2016, Wide",
+            "Streaming: Oct 11, 2016"
+        ],
+        "Runtime": "2h 7m",
+        "Rating": "R (Language Throughout|Drug Material|Some Sexual Content|Strong Violence)",
+        "Actors": [
+            "Brad Furman (Director)",
+            "Bryan Cranston (Robert Mazur)",
+            "Diane Kruger (Kathy Ertz)",
+            "John Leguizamo (Emir Abreu)",
+            "Amy Ryan (Bonni Tischler)",
+            "Jason Isaacs (Mark Jackowski)"
+        ],
+        "Tomatometer": "72%",
+        "Popcornmeter": "71%"
+    },
+    {
+        "Title": "Look Back",
+        "Genres": [
+            "Drama",
+            "Mystery & Thriller",
+            "Anime"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 4, 2024, Limited",
+            "Streaming: Nov 7, 2024"
+        ],
+        "Runtime": "1h 15m",
+        "Rating": "",
+        "Actors": [
+            "Kiyotaka Oshiyama (Director)",
+            "Yumi Kawai (Fujino)",
+            "Mizuki Yoshida (Kyomoto)",
+            "Kiyotaka Oshiyama (Screenwriter)"
+        ],
+        "Tomatometer": "100%",
+        "Popcornmeter": "99%"
+    },
+    {
+        "Title": "Challengers",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 26, 2024, Wide",
+            "Streaming: May 17, 2024"
+        ],
+        "Runtime": "2h 11m",
+        "Rating": "R (Language Throughout|Graphic Nudity|Some Sexual Content)",
+        "Actors": [
+            "Luca Guadagnino (Director)",
+            "Zendaya (Tashi Duncan)",
+            "Josh O'Connor (Patrick Zweig)",
+            "Mike Faist (Art Donaldson)",
+            "A.J. Lister (Lily)",
+            "Bryan Doo (Art's Physiotherapist)"
+        ],
+        "Tomatometer": "88%",
+        "Popcornmeter": "74%"
+    },
+    {
+        "Title": "Fly Me to the Moon",
+        "Genres": [
+            "Romance",
+            "Comedy",
+            "Drama",
+            "History"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 12, 2024, Wide",
+            "Streaming: Aug 13, 2024"
+        ],
+        "Runtime": "2h 12m",
+        "Rating": "PG-13 (Some Strong Language|Smoking)",
+        "Actors": [
+            "Greg Berlanti (Director)",
+            "Scarlett Johansson (Kelly Jones)",
+            "Channing Tatum (Cole Davis)",
+            "Jim Rash (Lance Vespertine)",
+            "Anna Garcia (Ruby)",
+            "Ray Romano (Henry Smalls)"
+        ],
+        "Tomatometer": "65%",
+        "Popcornmeter": "90%"
+    },
+    {
+        "Title": "Hillbilly Elegy",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 11, 2020, Limited",
+            "Streaming: Nov 24, 2020"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "R (Language Throughout|Drug Content|Some Violence)",
+        "Actors": [
+            "Ron Howard (Director)",
+            "Amy Adams (Bev)",
+            "Glenn Close (Mawmaw)",
+            "Gabriel Basso (J.D. Vance)",
+            "Freida Pinto (Usha)",
+            "Sunny Mabrey (Bonnie - Mamaw 30s)"
+        ],
+        "Tomatometer": "24%",
+        "Popcornmeter": "81%"
+    },
+    {
+        "Title": "Canary Black",
+        "Genres": [
+            "Action",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Streaming: Oct 24, 2024"
+        ],
+        "Runtime": "1h 43m",
+        "Rating": "R",
+        "Actors": [
+            "Pierre Morel (Director)",
+            "Kate Beckinsale (Avery Graves)",
+            "Saffron Burrows (Elizabeth Mills)",
+            "Ben Miles (DCIA Nathan Evans)",
+            "Arben Bajraktaraj (Henrick)",
+            "Andrei Lenart (Niklaus)"
+        ],
+        "Tomatometer": "18%",
+        "Popcornmeter": "31%"
+    },
+    {
+        "Title": "Monkey Man",
+        "Genres": [
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 5, 2024, Wide",
+            "Streaming: Apr 23, 2024"
+        ],
+        "Runtime": "1h 53m",
+        "Rating": "R (Language Throughout|Drug Use|Sexual Content/Nudity|Strong Bloody Violence)",
+        "Actors": [
+            "Dev Patel (Director)",
+            "Dev Patel (Actor)",
+            "Sharlto Copley (Actor)",
+            "Pitobash (Actor)",
+            "Vipin Sharma (Actor)",
+            "Sikandar Kher (Actor)"
+        ],
+        "Tomatometer": "89%",
+        "Popcornmeter": "83%"
+    },
+    {
+        "Title": "Leave the World Behind",
+        "Genres": [
+            "Mystery & Thriller",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 22, 2023, Limited",
+            "Streaming: Dec 8, 2023"
+        ],
+        "Runtime": "2h 20m",
+        "Rating": "R (Language|Drug Use|Brief Bloody Images|Some Sexual Content)",
+        "Actors": [
+            "Sam Esmail (Director)",
+            "Julia Roberts (Amanda Sandford)",
+            "Mahershala Ali (G. H. Scott)",
+            "Ethan Hawke (Clay Sandford)",
+            "Myha'la Herrold (Ruth Scott)",
+            "Kevin Bacon (Danny)"
+        ],
+        "Tomatometer": "74%",
+        "Popcornmeter": "36%"
+    },
+    {
+        "Title": "Horizon: An American Saga - Chapter 1",
+        "Genres": [
+            "Western",
+            "History",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 28, 2024, Wide",
+            "Streaming: Jul 16, 2024"
+        ],
+        "Runtime": "3h 1m",
+        "Rating": "R (Some Nudity and Sexuality|Violence)",
+        "Actors": [
+            "Kevin Costner (Director)",
+            "Kevin Costner (Hayes Ellison)",
+            "Sienna Miller (Frances Kittredge)",
+            "Sam Worthington (Trent Gephardt)",
+            "Jena Malone (Ellen Harvey)",
+            "Owen Crow Shoe (Pionsenay)"
+        ],
+        "Tomatometer": "51%",
+        "Popcornmeter": "70%"
+    },
+    {
+        "Title": "Free State of Jones",
+        "Genres": [
+            "History",
+            "Drama",
+            "Biography",
+            "War"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 24, 2016, Wide",
+            "Streaming: Sep 6, 2016"
+        ],
+        "Runtime": "2h 19m",
+        "Rating": "R (Disturbing Graphic Images|Brutal Battle Scenes)",
+        "Actors": [
+            "Gary Ross (Director)",
+            "Matthew McConaughey (Newt Knight)",
+            "Gugu Mbatha-Raw (Rachel)",
+            "Mahershala Ali (Moses)",
+            "Keri Russell (Serena Knight)",
+            "Brendan Gleeson (Actor)"
+        ],
+        "Tomatometer": "48%",
+        "Popcornmeter": "64%"
+    },
+    {
+        "Title": "Brothers",
+        "Genres": [
+            "Action",
+            "Comedy",
+            "Crime"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 10, 2024, Limited",
+            "Streaming: Oct 17, 2024"
+        ],
+        "Runtime": "1h 29m",
+        "Rating": "R",
+        "Actors": [
+            "Max Barbakow (Director)",
+            "Josh Brolin (Actor)",
+            "Brendan Fraser (Actor)",
+            "Peter Dinklage (Actor)",
+            "Devyn Dalton (Samuel)",
+            "Glenn Close (Actor)"
+        ],
+        "Tomatometer": "42%",
+        "Popcornmeter": "42%"
+    },
+    {
+        "Title": "Paddington 2",
+        "Genres": [
+            "Kids & Family",
+            "Comedy",
+            "Adventure"
+        ],
+        "Release Dates": [
+            "Theaters: Jan 12, 2018, Wide",
+            "Streaming: Mar 6, 2018"
+        ],
+        "Runtime": "1h 43m",
+        "Rating": "PG (Some Action|Mild Rude Humor)",
+        "Actors": [
+            "Paul King (Director)",
+            "Ben Whishaw (Paddington)",
+            "Hugh Grant (Phoenix Buchanan)",
+            "Sally Hawkins (Mary Brown)",
+            "Hugh Bonneville (Henry Brown)",
+            "Brendan Gleeson (Knuckles McGinty)"
+        ],
+        "Tomatometer": "99%",
+        "Popcornmeter": "88%"
+    },
+    {
+        "Title": "The Little Things",
+        "Genres": [
+            "Mystery & Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jan 29, 2021, Limited",
+            "Streaming: Jan 29, 2021"
+        ],
+        "Runtime": "2h 7m",
+        "Rating": "R (Language|Full Nudity|Violent/Disturbing Images)",
+        "Actors": [
+            "John Lee Hancock (Director)",
+            "Denzel Washington (Joe \"Deke\" Deacon)",
+            "Rami Malek (Jim Baxter)",
+            "Jared Leto (Albert Sparma)",
+            "Natalie Morales (Detective Jamie Estrada)",
+            "Terry Kinney (LASD Captain Carl Farris)"
+        ],
+        "Tomatometer": "44%",
+        "Popcornmeter": "67%"
+    },
+    {
+        "Title": "A Quiet Place: Day One",
+        "Genres": [
+            "Horror",
+            "Sci-Fi",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 28, 2024, Wide",
+            "Streaming: Jul 30, 2024"
+        ],
+        "Runtime": "1h 40m",
+        "Rating": "PG-13 (Violent Content/Bloody Images|Terror)",
+        "Actors": [
+            "Michael Sarnoski (Director)",
+            "Lupita Nyong'o (Sam)",
+            "Joseph Quinn (Eric)",
+            "Alex Wolff (Actor)",
+            "Djimon Hounsou (Henri)",
+            "Jennifer Woodward (Nurse)"
+        ],
+        "Tomatometer": "87%",
+        "Popcornmeter": "72%"
+    },
+    {
+        "Title": "Godzilla Minus One",
+        "Genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure"
+        ],
+        "Release Dates": [
+            "Theaters: Dec 1, 2023, Wide",
+            "Streaming: Jun 1, 2024"
+        ],
+        "Runtime": "2h 5m",
+        "Rating": "PG-13 (Creature Violence and Action)",
+        "Actors": [
+            "Takashi Yamazaki (Director)",
+            "Ry\u00fbnosuke Kamiki (Koichi Shikishima)",
+            "Minami Hamabe (Noriko Oishi)",
+            "Munetaka Aoki (Sosaku Tachibana)",
+            "Hidetaka Yoshioka (Kenji Noda)",
+            "Yuki Yamada (Shiro Mizushima)"
+        ],
+        "Tomatometer": "99%",
+        "Popcornmeter": "98%"
+    },
+    {
+        "Title": "Super/Man: The Christopher Reeve Story",
+        "Genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 11, 2024, Wide",
+            "Streaming: Nov 5, 2024"
+        ],
+        "Runtime": "1h 44m",
+        "Rating": "PG-13 (Thematic Elements|Some Strong Language)",
+        "Actors": [
+            "Ian Bonh\u00f4te (Director)",
+            "Peter Ettedgui (Director)",
+            "Glenn Close (Self)",
+            "Jeff Daniels (Self)",
+            "Whoopi Goldberg (Self)",
+            "Susan Sarandon (Self)"
+        ],
+        "Tomatometer": "98%",
+        "Popcornmeter": "98%"
+    },
+    {
+        "Title": "Harold and the Purple Crayon",
+        "Genres": [
+            "Kids & Family",
+            "Comedy",
+            "Adventure",
+            "Fantasy"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 2, 2024, Wide",
+            "Streaming: Aug 27, 2024"
+        ],
+        "Runtime": "",
+        "Rating": "PG (Thematic Elements|Mild Action)",
+        "Actors": [
+            "Carlos Saldanha (Director)",
+            "Zachary Levi (Harold)",
+            "Zooey Deschanel (Terry)",
+            "Alfred Molina (Narrator)",
+            "Lil Rel Howery (Moose)",
+            "Benjamin Bottani (Mel)"
+        ],
+        "Tomatometer": "28%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "The Holdovers",
+        "Genres": [
+            "Holiday",
+            "Comedy",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 10, 2023, Wide",
+            "Streaming: Nov 28, 2023"
+        ],
+        "Runtime": "2h 13m",
+        "Rating": "R (Language|Brief Sexual Material|Some Drug Use)",
+        "Actors": [
+            "Alexander Payne (Director)",
+            "Paul Giamatti (Paul Hunham)",
+            "Da'Vine Joy Randolph (Mary Lamb)",
+            "Dominic Sessa (Angus Tully)",
+            "Carrie Preston (Miss Lydia Crane)",
+            "Andrew Garman (Dr. Hardy Woodrup)"
+        ],
+        "Tomatometer": "97%",
+        "Popcornmeter": "92%"
+    },
+    {
+        "Title": "Martha",
+        "Genres": [
+            "Documentary",
+            "Biography"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 25, 2024, Limited",
+            "Streaming: Oct 30, 2024"
+        ],
+        "Runtime": "1h 53m",
+        "Rating": "",
+        "Actors": [
+            "R.J. Cutler (Director)",
+            "Martha Stewart (Self)",
+            "Mark Blatty (Executive Producer)",
+            "Elise Pearlstein (Executive Producer)",
+            "Jane Cha (Producer)",
+            "Alino Cho (Producer)"
+        ],
+        "Tomatometer": "88%",
+        "Popcornmeter": "92%"
+    },
+    {
+        "Title": "MadS",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 18, 2024, Limited",
+            "Streaming: Oct 18, 2024"
+        ],
+        "Runtime": "1h 28m",
+        "Rating": "",
+        "Actors": [
+            "David Moreau (Director)",
+            "Lewkowski Yovel (Noa)",
+            "Milton Riche (Actor)",
+            "Lucille Guillaume (Actor)",
+            "Laurie Pavy (Actor)",
+            "David Moreau (Screenwriter)"
+        ],
+        "Tomatometer": "93%",
+        "Popcornmeter": "75%"
+    },
+    {
+        "Title": "Subservience",
+        "Genres": [
+            "Sci-Fi",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Streaming: Sep 13, 2024"
+        ],
+        "Runtime": "1h 35m",
+        "Rating": "R",
+        "Actors": [
+            "S.K. Dale (Director)",
+            "Megan Fox (Alice)",
+            "Michele Morrone (Actor)",
+            "Madeline Zima (Maggie)",
+            "Atanas Srebrev (Lewis)",
+            "Andrew Whipp (Actor)"
+        ],
+        "Tomatometer": "46%",
+        "Popcornmeter": "58%"
+    },
+    {
+        "Title": "The Shadow Strays",
+        "Genres": [
+            "Action",
+            "Mystery & Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Streaming: Oct 17, 2024"
+        ],
+        "Runtime": "2h 24m",
+        "Rating": "",
+        "Actors": [
+            "Timo Tjahjanto (Director)",
+            "Aurora Ribero (Actor)",
+            "Hana Malasan (Actor)",
+            "Taskya Namya (Actor)",
+            "Agra Piliang (Actor)",
+            "Andri Mashadi (Actor)"
+        ],
+        "Tomatometer": "91%",
+        "Popcornmeter": "78%"
+    },
+    {
+        "Title": "The American Soldier",
+        "Genres": [
+            "Documentary",
+            "History",
+            "War"
+        ],
+        "Release Dates": [
+            "Streaming: Nov 12, 2024"
+        ],
+        "Runtime": "1h 25m",
+        "Rating": "",
+        "Actors": [
+            "Corey Johnson (Narrator)"
+        ],
+        "Tomatometer": "",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "MaXXXine",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 5, 2024, Wide",
+            "Streaming: Aug 2, 2024"
+        ],
+        "Runtime": "1h 41m",
+        "Rating": "R (Gore|Drug Use|Strong Violence|Graphic Nudity|Language|Sexual Content)",
+        "Actors": [
+            "Ti West (Director)",
+            "Mia Goth (Maxine Minx)",
+            "Elizabeth Debicki (Elizabeth Bender)",
+            "Moses Sumney (Leon Green)",
+            "Michelle Monaghan (Detective Williams)",
+            "Bobby Cannavale (Detective Torres)"
+        ],
+        "Tomatometer": "72%",
+        "Popcornmeter": "76%"
+    },
+    {
+        "Title": "Alita: Battle Angel",
+        "Genres": [
+            "Sci-Fi",
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Animation"
+        ],
+        "Release Dates": [
+            "Theaters: Feb 14, 2019, Wide",
+            "Streaming: Jul 9, 2019"
+        ],
+        "Runtime": "2h 2m",
+        "Rating": "PG-13 (Sequences of Sci-Fi Violence|Action|Some Language)",
+        "Actors": [
+            "Robert Rodriguez (Director)",
+            "Rosa Salazar (Alita)",
+            "Christoph Waltz (Dr. Ido)",
+            "Keean Johnson (Hugo)",
+            "Mahershala Ali (Vector)",
+            "Jennifer Connelly (Chiren)"
+        ],
+        "Tomatometer": "61%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "Reagan",
+        "Genres": [
+            "Biography",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 30, 2024, Wide",
+            "Streaming: Oct 15, 2024"
+        ],
+        "Runtime": "2h 21m",
+        "Rating": "PG-13 (Violent Content and Smoking)",
+        "Actors": [
+            "Sean McNamara (Director)",
+            "Dennis Quaid (Ronald Reagan)",
+            "Penelope Ann Miller (Nancy Reagan)",
+            "Jon Voight (Viktor Petrovich)",
+            "Kevin Dillon (Jack Warner)",
+            "Olek Krupa (Mikhail Gorbachev)"
+        ],
+        "Tomatometer": "18%",
+        "Popcornmeter": "98%"
+    },
+    {
+        "Title": "The Day of the Jackal",
+        "Genres": [
+            "Mystery & Thriller",
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jul 30, 1973, Original",
+            "Streaming: Sep 11, 2015"
+        ],
+        "Runtime": "2h 21m",
+        "Rating": "PG",
+        "Actors": [
+            "Fred Zinnemann (Director)",
+            "Edward Fox (The Jackal)",
+            "Micha\u00ebl Lonsdale (Lebel)",
+            "Tony Britton (Inspector Thomas)",
+            "Terence Alexander (Lloyd)",
+            "Cyril Cusack (The Gunsmith)"
+        ],
+        "Tomatometer": "91%",
+        "Popcornmeter": "88%"
+    },
+    {
+        "Title": "Azrael",
+        "Genres": [
+            "Action",
+            "Horror",
+            "Fantasy",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 27, 2024, Limited",
+            "Streaming: Oct 25, 2024"
+        ],
+        "Runtime": "1h 25m",
+        "Rating": "R (Strong Bloody Violence|Gore)",
+        "Actors": [
+            "E.L. Katz (Director)",
+            "Samara Weaving (Azrael)",
+            "Nathan Stewart-Jarrett (Kenan)",
+            "Sebastian Bull Sarning (Isaac)",
+            "Eero Milonoff (Luther)",
+            "Vincent Willestrand (Leon)"
+        ],
+        "Tomatometer": "73%",
+        "Popcornmeter": "62%"
+    },
+    {
+        "Title": "All of Us Strangers",
+        "Genres": [
+            "Romance",
+            "Drama",
+            "Fantasy"
+        ],
+        "Release Dates": [
+            "Theaters: Dec 22, 2023, Limited",
+            "Streaming: Feb 22, 2024"
+        ],
+        "Runtime": "1h 45m",
+        "Rating": "R (Sexual Content|Language|Some Drug Use)",
+        "Actors": [
+            "Andrew Haigh (Director)",
+            "Andrew Scott (Adam)",
+            "Paul Mescal (Harry)",
+            "Jamie Bell (Actor)",
+            "Claire Foy (Actor)",
+            "Andrew Haigh (Screenwriter)"
+        ],
+        "Tomatometer": "96%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "Will & Harper",
+        "Genres": [
+            "Documentary",
+            "LGBTQ+"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 13, 2024, Limited",
+            "Streaming: Sep 27, 2024"
+        ],
+        "Runtime": "1h 54m",
+        "Rating": "R (Language)",
+        "Actors": [
+            "Josh Greenbaum (Director)",
+            "Will Ferrell (Self)",
+            "Harper Steele (Self)",
+            "Rafael Marmor (Producer)",
+            "Will Ferrell (Producer)",
+            "Jessica Elbaum (Producer)"
+        ],
+        "Tomatometer": "99%",
+        "Popcornmeter": "82%"
+    },
+    {
+        "Title": "Inside Out 2",
+        "Genres": [
+            "Kids & Family",
+            "Comedy",
+            "Adventure",
+            "Animation"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 14, 2024, Wide",
+            "Streaming: Aug 20, 2024"
+        ],
+        "Runtime": "1h 36m",
+        "Rating": "PG (Some Thematic Elements)",
+        "Actors": [
+            "Kelsey Mann (Director)",
+            "Amy Poehler (Joy)",
+            "Kensington Tallman (Riley)",
+            "Maya Hawke (Anxiety)",
+            "Lilimar (Valentina)",
+            "Phyllis Smith (Sadness)"
+        ],
+        "Tomatometer": "90%",
+        "Popcornmeter": "95%"
+    },
+    {
+        "Title": "Cuckoo",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 9, 2024, Wide",
+            "Streaming: Sep 17, 2024"
+        ],
+        "Runtime": "1h 42m",
+        "Rating": "R (Language|Brief Teen Drug Use|Bloody Images|Violence)",
+        "Actors": [
+            "Tilman Singer (Director)",
+            "Hunter Schafer (Gretchen)",
+            "Dan Stevens (Herr K\u00f6nig)",
+            "Jessica Henwick (Beth)",
+            "Marton Csokas (Luis)",
+            "Jan Bluthardt (Henry)"
+        ],
+        "Tomatometer": "78%",
+        "Popcornmeter": "60%"
+    },
+    {
+        "Title": "Furiosa: A Mad Max Saga",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Sci-Fi"
+        ],
+        "Release Dates": [
+            "Theaters: May 24, 2024, Wide",
+            "Streaming: Jun 25, 2024"
+        ],
+        "Runtime": "2h 28m",
+        "Rating": "R (Sequences of Strong Violence|Grisly Images)",
+        "Actors": [
+            "George Miller (Director)",
+            "Anya Taylor-Joy (Furiosa)",
+            "Chris Hemsworth (Dementus)",
+            "Tom Burke (Praetorian Jack)",
+            "Alyla Browne (Young Furiosa)",
+            "George Shevtsov (The History Man)"
+        ],
+        "Tomatometer": "90%",
+        "Popcornmeter": "89%"
+    },
+    {
+        "Title": "Oblivion",
+        "Genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 19, 2013, Wide",
+            "Streaming: Jan 1, 2015"
+        ],
+        "Runtime": "2h 15m",
+        "Rating": "PG-13 (Nudity|Brief Strong Language|Sci-Fi Action Violence|Some Sensuality)",
+        "Actors": [
+            "Joseph Kosinski (Director)",
+            "Tom Cruise (Jack Harper)",
+            "Morgan Freeman (Beech)",
+            "Olga Kurylenko (Julia Rusakova)",
+            "Andrea Riseborough (Vika)",
+            "Nikolaj Coster-Waldau (Sykes)"
+        ],
+        "Tomatometer": "53%",
+        "Popcornmeter": "61%"
+    },
+    {
+        "Title": "Venom",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 5, 2018, Wide",
+            "Streaming: Jun 18, 2019"
+        ],
+        "Runtime": "1h 52m",
+        "Rating": "PG-13 (Intense Sci-Fi Violence|Action|Language)",
+        "Actors": [
+            "Ruben Fleischer (Director)",
+            "Tom Hardy (Eddie Brock)",
+            "Michelle Williams (Anne Weying)",
+            "Riz Ahmed (Carlton Drake)",
+            "Scott Haze (Roland Treece)",
+            "Reid Scott (Dr. Dan Lewis)"
+        ],
+        "Tomatometer": "30%",
+        "Popcornmeter": "80%"
+    },
+    {
+        "Title": "Indiana Jones and the Dial of Destiny",
+        "Genres": [
+            "Adventure",
+            "Action"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 30, 2023, Wide",
+            "Streaming: Aug 29, 2023"
+        ],
+        "Runtime": "2h 24m",
+        "Rating": "PG-13 (Language|Action|Sequences of Violence|Smoking)",
+        "Actors": [
+            "James Mangold (Director)",
+            "Harrison Ford (Indiana Jones)",
+            "Phoebe Waller-Bridge (Helena)",
+            "Antonio Banderas (Renaldo)",
+            "John Rhys-Davies (Sallah)",
+            "Shaunette Ren\u00e9e Wilson (Mason)"
+        ],
+        "Tomatometer": "70%",
+        "Popcornmeter": "87%"
+    },
+    {
+        "Title": "Anyone But You",
+        "Genres": [
+            "Romance",
+            "Comedy"
+        ],
+        "Release Dates": [
+            "Theaters: Dec 22, 2023, Wide",
+            "Streaming: Feb 20, 2024"
+        ],
+        "Runtime": "1h 43m",
+        "Rating": "R (Language Throughout|Brief Graphic Nudity|Sexual Content)",
+        "Actors": [
+            "Will Gluck (Director)",
+            "Sydney Sweeney (Bea)",
+            "Glen Powell (Ben)",
+            "Alexandra Shipp (Actor)",
+            "GaTa (Actor)",
+            "Hadley Robinson (Actor)"
+        ],
+        "Tomatometer": "54%",
+        "Popcornmeter": "87%"
+    },
+    {
+        "Title": "Return of the King: The Fall and Rise of Elvis Presley",
+        "Genres": [
+            "Documentary",
+            "Music",
+            "History"
+        ],
+        "Release Dates": [
+            "Streaming: Nov 13, 2024"
+        ],
+        "Runtime": "1h 31m",
+        "Rating": "",
+        "Actors": [
+            "Elvis Presley (Self)",
+            "Priscilla Presley (Self)",
+            "Bruce Springsteen (Self)",
+            "Baz Luhrmann (Self)",
+            "Conan O'Brien (Self)",
+            "Billy Corgan (Self)"
+        ],
+        "Tomatometer": "",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "It's Coming",
+        "Genres": [
+            "Documentary",
+            "Horror"
+        ],
+        "Release Dates": [
+            "Streaming: Nov 12, 2024"
+        ],
+        "Runtime": "1h 28m",
+        "Rating": "",
+        "Actors": [
+            "Shannon Alexander (Director)",
+            "Ashley Roland-White (Actor)",
+            "Javier Vega (Actor)",
+            "Chris DeFlorio (Actor)",
+            "Shannon Alexander (Screenwriter)"
+        ],
+        "Tomatometer": "",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "Aftersun",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 21, 2022, Limited",
+            "Streaming: Dec 20, 2022"
+        ],
+        "Runtime": "1h 41m",
+        "Rating": "R (Some Language|Brief Sexual Material)",
+        "Actors": [
+            "Charlotte Wells (Director)",
+            "Paul Mescal (Calum)",
+            "Frankie Corio (Sophie)",
+            "Celia Rowlson-Hall (Adult Sophie)",
+            "Kayleigh Coleman (Jane)",
+            "Harry Perdios (Toby)"
+        ],
+        "Tomatometer": "95%",
+        "Popcornmeter": "81%"
+    },
+    {
+        "Title": "How to Train Your Dragon",
+        "Genres": [
+            "Kids & Family",
+            "Fantasy",
+            "Adventure",
+            "Comedy",
+            "Animation"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 26, 2010, Wide",
+            "Streaming: Nov 25, 2015"
+        ],
+        "Runtime": "1h 38m",
+        "Rating": "PG (Sequences of Intense Action|Brief Mild Language|Some Scary Images)",
+        "Actors": [
+            "Christopher Sanders (Director)",
+            "Dean DeBlois (Director)",
+            "Jay Baruchel (Hiccup)",
+            "Gerard Butler (King Stoick the Vast)",
+            "America Ferrera (Astrid)",
+            "Jonah Hill (Snotlout)"
+        ],
+        "Tomatometer": "99%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "Dungeons & Dragons: Honor Among Thieves",
+        "Genres": [
+            "Fantasy",
+            "Adventure",
+            "Action",
+            "Comedy"
+        ],
+        "Release Dates": [
+            "Theaters: Mar 31, 2023, Wide",
+            "Streaming: May 2, 2023"
+        ],
+        "Runtime": "2h 14m",
+        "Rating": "PG-13 (Some Language|Fantasy Action/Violence)",
+        "Actors": [
+            "Jonathan M. Goldstein (Director)",
+            "John Francis Daley (Director)",
+            "Chris Pine (Edgin)",
+            "Michelle Rodriguez (Holga)",
+            "Reg\u00e9-Jean Page (Xenk)",
+            "Justice Smith (Simon)"
+        ],
+        "Tomatometer": "91%",
+        "Popcornmeter": "93%"
+    },
+    {
+        "Title": "The Ministry of Ungentlemanly Warfare",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "War"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 19, 2024, Wide",
+            "Streaming: May 10, 2024"
+        ],
+        "Runtime": "2h 0m",
+        "Rating": "R (Strong Violence Throughout|Some Language)",
+        "Actors": [
+            "Guy Ritchie (Director)",
+            "Henry Cavill (Gus March-Phillips)",
+            "Eiza Gonz\u00e1lez (Marjorie Stewart)",
+            "Alan Ritchson (Anders Lassen)",
+            "Alex Pettyfer (Geoffrey Appleyard)",
+            "Hero Fiennes Tiffin (Henry Hayes)"
+        ],
+        "Tomatometer": "68%",
+        "Popcornmeter": "93%"
+    },
+    {
+        "Title": "In Flight",
+        "Genres": [
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 8, 2024, Limited",
+            "Streaming: Nov 15, 2024"
+        ],
+        "Runtime": "1h 31m",
+        "Rating": "",
+        "Actors": [
+            "Bo Youngblood (Director)",
+            "Tiffany Smith (Actor)",
+            "Maria Russell (Actor)",
+            "Ashley Jones (Actor)",
+            "Daniel Robaire (Actor)",
+            "Sandi McCree (Actor)"
+        ],
+        "Tomatometer": "",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "His Three Daughters",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 6, 2024, Limited",
+            "Streaming: Sep 20, 2024"
+        ],
+        "Runtime": "1h 41m",
+        "Rating": "R",
+        "Actors": [
+            "Azazel Jacobs (Director)",
+            "Natasha Lyonne (Rachel)",
+            "Elizabeth Olsen (Christina)",
+            "Carrie Coon (Katie)",
+            "Jovan Adepo (Benji)",
+            "Jos\u00e9 Febus (Actor)"
+        ],
+        "Tomatometer": "98%",
+        "Popcornmeter": "85%"
+    },
+    {
+        "Title": "Alex Cross",
+        "Genres": [
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 19, 2012, Wide",
+            "Streaming: Dec 14, 2015"
+        ],
+        "Runtime": "1h 41m",
+        "Rating": "PG-13 (Drug References|Disturbing Images|Violence|Language|Nudity|Sexual Content)",
+        "Actors": [
+            "Rob Cohen (Director)",
+            "Tyler Perry (Dr. Alex Cross)",
+            "Matthew Fox (Picasso)",
+            "Edward Burns (Thomas Kane)",
+            "Rachel Nichols (Monica Ashe)",
+            "Jean Reno (Leon Mercier)"
+        ],
+        "Tomatometer": "11%",
+        "Popcornmeter": "47%"
+    },
+    {
+        "Title": "Kinds of Kindness",
+        "Genres": [
+            "Comedy",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 28, 2024, Wide",
+            "Streaming: Aug 27, 2024"
+        ],
+        "Runtime": "2h 44m",
+        "Rating": "R (Language|Full Nudity|Strong Sexual Content|Strong Violent Content)",
+        "Actors": [
+            "Yorgos Lanthimos (Director)",
+            "Emma Stone (Rita)",
+            "Jesse Plemons (Robert)",
+            "Willem Dafoe (Raymond)",
+            "Margaret Qualley (Vivian)",
+            "Hong Chau (Sarah)"
+        ],
+        "Tomatometer": "72%",
+        "Popcornmeter": "48%"
+    },
+    {
+        "Title": "Fifty Shades of Grey",
+        "Genres": [
+            "Romance",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Feb 13, 2015, Wide",
+            "Streaming: Jan 5, 2016"
+        ],
+        "Runtime": "2h 5m",
+        "Rating": "R (Language|Graphic Nudity|Sexual Dialogue|Some Unusual Behavior|Strong Sexual Content)",
+        "Actors": [
+            "Sam Taylor-Johnson (Director)",
+            "Dakota Johnson (Anastasia Steele)",
+            "Jamie Dornan (Christian Grey)",
+            "Jennifer Ehle (Carla)",
+            "Eloise Mumford (Kate)",
+            "Victor Rasuk (Jos\u00e9)"
+        ],
+        "Tomatometer": "25%",
+        "Popcornmeter": "41%"
+    },
+    {
+        "Title": "13 Assassins",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "History",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Apr 29, 2011, Limited",
+            "Streaming: Jan 7, 2017"
+        ],
+        "Runtime": "2h 6m",
+        "Rating": "R (Some Disturbing Images|Sequences of Bloody Violence|Brief Nudity)",
+        "Actors": [
+            "Takashi Miike (Director)",
+            "K\u00f4ji Yakusho (Shinzaemon Shimada)",
+            "Takayuki Yamada (Shinrouko)",
+            "Yusuke Iseya (Koyata)",
+            "Goro Inagaki (Lord Naritsugu Matsudaira)",
+            "Mikijir\u014d Hira (Sir Doi)"
+        ],
+        "Tomatometer": "95%",
+        "Popcornmeter": "88%"
+    },
+    {
+        "Title": "Red Island",
+        "Genres": [
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 16, 2024, Limited",
+            "Streaming: Nov 15, 2024"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "",
+        "Actors": [
+            "Robin Campillo (Director)",
+            "Nadia Tereszkiewicz (Colette Lopez)",
+            "Quim Guti\u00e9rrez (Robert Lopez)",
+            "Charlie Vauselle (Thomas Lopez)",
+            "Amely Rakotoarimalala (Miangaly)",
+            "Hugues Delamarli\u00e8re (Bernard Huissens)"
+        ],
+        "Tomatometer": "84%",
+        "Popcornmeter": ""
+    },
+    {
+        "Title": "Lonely Planet",
+        "Genres": [
+            "Romance",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 11, 2024, Limited",
+            "Streaming: Oct 11, 2024"
+        ],
+        "Runtime": "1h 34m",
+        "Rating": "",
+        "Actors": [
+            "Susannah Grant (Director)",
+            "Laura Dern (Katherine Loewe)",
+            "Liam Hemsworth (Owen Brophy)",
+            "Diana Silvers (Lily Kemp)",
+            "Youn\u00e8s Boucif (Rafih Abdo)",
+            "Adriano Giannini (Ugo Jaconelli)"
+        ],
+        "Tomatometer": "40%",
+        "Popcornmeter": "37%"
+    },
+    {
+        "Title": "Poolman",
+        "Genres": [
+            "Comedy",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: May 10, 2024, Limited",
+            "Streaming: May 31, 2024"
+        ],
+        "Runtime": "1h 40m",
+        "Rating": "R (Some Language|Brief Sexuality)",
+        "Actors": [
+            "Chris Pine (Director)",
+            "Chris Pine (Darren Barrenman)",
+            "Danny DeVito (Jack)",
+            "Annette Bening (Diane)",
+            "Ray Wise (Van Patterson)",
+            "Juliet Mills (Mrs Van Patterson)"
+        ],
+        "Tomatometer": "22%",
+        "Popcornmeter": "20%"
+    },
+    {
+        "Title": "Land of Bad",
+        "Genres": [
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Feb 16, 2024, Limited",
+            "Streaming: Mar 19, 2024"
+        ],
+        "Runtime": "1h 50m",
+        "Rating": "R (Strong Bloody Violence|Language Throughout)",
+        "Actors": [
+            "William Eubank (Director)",
+            "Liam Hemsworth (Kinney)",
+            "Russell Crowe (Reaper)",
+            "Luke Hemsworth (Abel)",
+            "Ricky Whittle (Bishop)",
+            "Milo Ventimiglia (Sugar)"
+        ],
+        "Tomatometer": "67%",
+        "Popcornmeter": "94%"
+    },
+    {
+        "Title": "Uglies",
+        "Genres": [
+            "Sci-Fi",
+            "Adventure",
+            "Action",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Streaming: Sep 13, 2024"
+        ],
+        "Runtime": "1h 40m",
+        "Rating": "PG-13",
+        "Actors": [
+            "McG (Director)",
+            "Joey King (Tally Youngblood)",
+            "Jillian Murray (Ellie Youngblood)",
+            "Chase Stokes (Peris)",
+            "Laverne Cox (Dr. Cable)",
+            "Brianne Tju (Shay)"
+        ],
+        "Tomatometer": "16%",
+        "Popcornmeter": "43%"
+    },
+    {
+        "Title": "Reptile",
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 22, 2023, Limited",
+            "Streaming: Sep 29, 2023"
+        ],
+        "Runtime": "2h 14m",
+        "Rating": "R (Violence|Some Nude Images|Language)",
+        "Actors": [
+            "Grant Singer (Director)",
+            "Benicio del Toro (Tom Nichols)",
+            "Justin Timberlake (Will Grady)",
+            "Eric Bogosian (Actor)",
+            "Alicia Silverstone (Judy Nichols)",
+            "Domenick Lombardozzi (Actor)"
+        ],
+        "Tomatometer": "44%",
+        "Popcornmeter": "70%"
+    },
+    {
+        "Title": "IF",
+        "Genres": [
+            "Kids & Family",
+            "Comedy",
+            "Drama",
+            "Fantasy"
+        ],
+        "Release Dates": [
+            "Theaters: May 17, 2024, Wide",
+            "Streaming: Jun 18, 2024"
+        ],
+        "Runtime": "1h 44m",
+        "Rating": "PG (Thematic Elements|Mild Language)",
+        "Actors": [
+            "John Krasinski (Director)",
+            "Emily Blunt (Voice)",
+            "Ryan Reynolds (Actor)",
+            "Matt Damon (Voice)",
+            "Emily Blunt (Actor)",
+            "Matt Damon (Actor)"
+        ],
+        "Tomatometer": "50%",
+        "Popcornmeter": "87%"
+    },
+    {
+        "Title": "Napoleon",
+        "Genres": [
+            "Biography",
+            "History",
+            "Drama",
+            "War",
+            "Action"
+        ],
+        "Release Dates": [
+            "Theaters: Nov 22, 2023, Wide",
+            "Streaming: Jan 9, 2024"
+        ],
+        "Runtime": "2h 38m",
+        "Rating": "R (Sexual Content|Brief Language|Some Grisly Images|Strong Violence)",
+        "Actors": [
+            "Ridley Scott (Director)",
+            "Joaquin Phoenix (Napoleon Bonaparte)",
+            "Vanessa Kirby (Josephine)",
+            "Ben Miles (Coulancourt)",
+            "Tahar Rahim (Paul Barras)",
+            "Ludivine Sagnier (Theresa Cabarrus)"
+        ],
+        "Tomatometer": "58%",
+        "Popcornmeter": "58%"
+    },
+    {
+        "Title": "Pearl",
+        "Genres": [
+            "Horror",
+            "Mystery & Thriller",
+            "Comedy"
+        ],
+        "Release Dates": [
+            "Theaters: Sep 16, 2022, Wide",
+            "Streaming: Oct 25, 2022"
+        ],
+        "Runtime": "1h 42m",
+        "Rating": "R",
+        "Actors": [
+            "Ti West (Director)",
+            "Mia Goth (Pearl)",
+            "David Corenswet (The Projectionist)",
+            "Tandi Wright (Ruth)",
+            "Matthew Sunderland (Pearl's Father)",
+            "Emma Jenkins-Purro (Misty)"
+        ],
+        "Tomatometer": "93%",
+        "Popcornmeter": "83%"
+    },
+    {
+        "Title": "XX",
+        "Genres": [
+            "Horror"
+        ],
+        "Release Dates": [
+            "Theaters: Feb 17, 2017, Limited",
+            "Streaming: Feb 17, 2017"
+        ],
+        "Runtime": "1h 21m",
+        "Rating": "R (Language|Horror Violence|Brief Drug Use)",
+        "Actors": [
+            "Jovanka Vuckovic (Director)",
+            "St. Vincent (Director)",
+            "Roxanne Benjamin (Director)",
+            "Karyn Kusama (Director)",
+            "Natalie Brown (Susan Jacobs (Segment: \"The Box\"))",
+            "Jonathan Watton (Robert Jacobs (Segment: \"The Box\"))"
+        ],
+        "Tomatometer": "69%",
+        "Popcornmeter": "20%"
+    },
+    {
+        "Title": "Deep Water",
+        "Genres": [
+            "Mystery & Thriller",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Streaming: Mar 18, 2022"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "R (Sexual Content|Nudity|Language|Some Violence)",
+        "Actors": [
+            "Adrian Lyne (Director)",
+            "Ben Affleck (Vic)",
+            "Ana de Armas (Melinda)",
+            "Tracy Letts (Don Wilson)",
+            "Lil Rel Howery (Grant)",
+            "Dash Mihok (Jonas Fernandez)"
+        ],
+        "Tomatometer": "35%",
+        "Popcornmeter": "24%"
+    },
+    {
+        "Title": "The Union",
+        "Genres": [
+            "Action",
+            "Mystery & Thriller"
+        ],
+        "Release Dates": [
+            "Theaters: Aug 16, 2024, Limited",
+            "Streaming: Aug 16, 2024"
+        ],
+        "Runtime": "1h 46m",
+        "Rating": "PG-13 (Sequences of Strong Violence|Suggestive Material|Strong Language)",
+        "Actors": [
+            "Julian Farino (Director)",
+            "Mark Wahlberg (Mike McKenna)",
+            "Halle Berry (Roxanne Hall)",
+            "J.K. Simmons (Tom Brennan)",
+            "Mike Colter (Nick Faraday)",
+            "Alice Lee (Athena Kim)"
+        ],
+        "Tomatometer": "37%",
+        "Popcornmeter": "24%"
+    },
+    {
+        "Title": "Marvel's the Avengers",
+        "Genres": [
+            "Action",
+            "Adventure",
+            "Fantasy",
+            "Sci-Fi"
+        ],
+        "Release Dates": [
+            "Theaters: May 4, 2012, Wide",
+            "Streaming: Jun 22, 2014"
+        ],
+        "Runtime": "2h 23m",
+        "Rating": "PG-13 (Intense Sci-Fi Action/Violence|A Mild Drug Reference)",
+        "Actors": [
+            "Joss Whedon (Director)",
+            "Robert Downey Jr. (Tony Stark)",
+            "Chris Evans (Steve Rogers)",
+            "Mark Ruffalo (Bruce Banner)",
+            "Chris Hemsworth (Thor)",
+            "Scarlett Johansson (Natasha Romanoff)"
+        ],
+        "Tomatometer": "91%",
+        "Popcornmeter": "91%"
+    },
+    {
+        "Title": "Killer Heat",
+        "Genres": [
+            "Crime",
+            "Drama",
+            "Mystery & Thriller",
+            "Romance"
+        ],
+        "Release Dates": [
+            "Streaming: Sep 26, 2024"
+        ],
+        "Runtime": "1h 36m",
+        "Rating": "R",
+        "Actors": [
+            "Philippe Lac\u00f4te (Director)",
+            "Joseph Gordon-Levitt (Nick Bali)",
+            "Shailene Woodley (Penelope Vardakis)",
+            "Richard Madden (Elias 'Leonidas')",
+            "Clare Holman (Audrey)",
+            "Babou Ceesay (Georges Mensah)"
+        ],
+        "Tomatometer": "18%",
+        "Popcornmeter": "31%"
+    },
+    {
+        "Title": "The Bikeriders",
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Jun 21, 2024, Wide",
+            "Streaming: Jul 9, 2024"
+        ],
+        "Runtime": "1h 56m",
+        "Rating": "R (Language Throughout|Brief Sexuality|Some Drug Use|Violence)",
+        "Actors": [
+            "Jeff Nichols (Director)",
+            "Jodie Comer (Kathy)",
+            "Austin Butler (Benny)",
+            "Tom Hardy (Johnny)",
+            "Mike Faist (Danny)",
+            "Damon Herriman (Brucie)"
+        ],
+        "Tomatometer": "80%",
+        "Popcornmeter": "75%"
+    },
+    {
+        "Title": "Joker",
+        "Genres": [
+            "Crime",
+            "Drama"
+        ],
+        "Release Dates": [
+            "Theaters: Oct 4, 2019, Wide",
+            "Streaming: Oct 3, 2019"
+        ],
+        "Runtime": "2h 2m",
+        "Rating": "R (Disturbing Behavior|Brief Sexual Images|Language|Strong Bloody Violence)",
+        "Actors": [
+            "Todd Phillips (Director)",
+            "Joaquin Phoenix (Arthur Fleck)",
+            "Robert De Niro (Murray Franklin)",
+            "Zazie Beetz (Sophie Dumond)",
+            "Frances Conroy (Penny Fleck)",
+            "Brett Cullen (Thomas Wayne)"
+        ],
+        "Tomatometer": "68%",
+        "Popcornmeter": "89%"
     }
 ]
