@@ -97,13 +97,14 @@ if response.status_code == 200:
             
             actor_list = []
             actor_section = tomato_movie_soup.find('section', class_="cast-and-crew")
-            actor_wrap = actor_section.find('div', class_="content-wrap")
-            actors_anchors = actor_wrap.find_all('a', {"data-qa": "person-item"})
-            for actor_anchor in actors_anchors:
-                text_divs = actor_anchor.find("div", {"slot": "insetText"})
-                actor = text_divs.find("p", class_="name")
-                character = text_divs.find("p", class_="role")
-                actor_list.append(f"{actor.get_text()} ({character.get_text()})")
+            if actor_section:
+                actor_wrap = actor_section.find('div', class_="content-wrap")
+                actors_anchors = actor_wrap.find_all('a', {"data-qa": "person-item"})
+                for actor_anchor in actors_anchors:
+                    text_divs = actor_anchor.find("div", {"slot": "insetText"})
+                    actor = text_divs.find("p", class_="name")
+                    character = text_divs.find("p", class_="role")
+                    actor_list.append(f"{actor.get_text()} ({character.get_text()})")
 
 
             tomatometer = tomato_movie_soup.find('rt-text', {"slot": "criticsScore"}).get_text()
