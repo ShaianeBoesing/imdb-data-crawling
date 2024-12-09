@@ -1,3 +1,10 @@
+"""
+Módulo para extrair dados dos top 500 filmes do IMDb utilizando Selenium e BeautifulSoup.
+Alunos:
+    Matheus Eduardo Lafeta Feliciano (21202339)
+    Shaiane Boesing Rodrigues (21202341)
+"""
+
 import json
 import time
 
@@ -7,6 +14,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
+
 
 # Set up the WebDriver (Chrome in this example)
 chrome_options = ChromeOptions()
