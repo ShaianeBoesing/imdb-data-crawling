@@ -64,9 +64,7 @@ try:
 
 finally:
     # Após cliar 9 vezes o botão de "See more", a página terá carregado 500 filmes em seu conteúdo html.
-    clickable_element = wait.until(
-            EC.element_to_be_clickable((By.CLASS_NAME, "ipc-see-more__button"))
-        )
+    wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "ipc-see-more__button")))
     html_page_with_500_movies = driver.find_element(By.TAG_NAME, "html").get_attribute(
         "innerHTML"
     )
@@ -117,7 +115,7 @@ for index, item in enumerate(lista.find_all("li")):
                     age_rating = li.get_text()
             else:
                 duration = li.get_text()
-        
+
         print(year, duration, age_rating)
 
         rating = imdb_movie_soup.find("span", class_="sc-d541859f-1 imUuxf").get_text()

@@ -181,5 +181,5 @@ if html_page_with_500_movies:
             movies_data.append(movie_data)
             print(len(movies_data))
 
-            with open("./movies_data/tomato_movies_data.json", "w", encoding="utf-8") as file:
+            with open("./movies_data/tomato.json", "w", encoding="utf-8") as file:
                 json.dump(movies_data, file, ensure_ascii=False, indent=4)
