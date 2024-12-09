@@ -12,6 +12,8 @@ import requests
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options as ChromeOptions
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.common.by import By
 from selenium.webdriver.firefox.options import Options as FirefoxOptions
 
@@ -23,8 +25,8 @@ chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (Window
 chrome_options.add_argument("--no-sandbox")  # Required for some environments
 
 firefox_options = FirefoxOptions()
-firefox_options.add_argument("--headless")  # Run Chrome in headless mode
-firefox_options.headless = True
+# firefox_options.add_argument("--headless")  # Run Chrome in headless mode
+# firefox_options.headless = True
 firefox_options.page_load_strategy = 'eager'
 
 driver = webdriver.Firefox(options=firefox_options)
@@ -53,9 +55,11 @@ try:
     for _ in range(9):
     # Como a página carrega através de JavaScript, utiliza-se o Selenium para clicar no botão de "See more" para carregar mais filmes.
     # Espera o elemento ser clicável e então clica o botão see more.
-        clickable_element = driver.find_element(By.CLASS_NAME, "ipc-see-more__button")
+        wait = WebDriverWait(driver, 10)
+        clickable_element = wait.until(EC.element_to_be_clickable((By.CLASS_NAME, "ipc-see-more__button")))
+        # clickable_element = driver.find_element(By.CLASS_NAME, "ipc-see-more__button")
         driver.execute_script("arguments[0].click();", clickable_element)
-        time.sleep(2)
+        # time.sleep(2)
 
 finally:
     # Após cliar 9 vezes o botão de "See more", a página terá carregado 500 filmes em seu conteúdo html.
