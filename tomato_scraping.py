@@ -17,14 +17,9 @@ from selenium.webdriver.firefox.options import Options as FirefoxOptions
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.webdriver.support.ui import WebDriverWait
 
-# Set up the WebDriver (Chrome in this example)
-chrome_options = ChromeOptions()
-chrome_options.add_argument("--headless")  # Run Chrome in headless mode
-chrome_options.add_argument("--disable-gpu")  # Disable GPU acceleration (Windows)
-chrome_options.add_argument("--no-sandbox")  # Required for some environments
-
+# Configuração do WebDriver (Firefox)
 firefox_options = FirefoxOptions()
-firefox_options.add_argument("--headless")  # Run Chrome in headless mode
+firefox_options.add_argument("--headless")
 firefox_options.headless = True
 firefox_options.page_load_strategy = "eager"
 
