@@ -1,3 +1,4 @@
 crawler/venv
 */node_modules
+dashboard-api/dist
 .venv
