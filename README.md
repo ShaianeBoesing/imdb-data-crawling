@@ -28,7 +28,7 @@ Antes de iniciar, certifique-se de ter instalado as seguintes ferramentas em sua
   npm run start:dev
 ```
 
-### Front0end
+### Front-end
 - Acesse o diretório `dashboard-frontend`
 ```
   npm install
