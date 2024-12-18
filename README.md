@@ -1,5 +1,8 @@
 # Executando as Aplicações
 
+## Apresentação do trabalho
+https://youtu.be/AVW1AjT4r2Y
+
 ## Pré-requisitos
 
 Antes de iniciar, certifique-se de ter instalado as seguintes ferramentas em sua máquina:
